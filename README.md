@@ -1,7 +1,6 @@
 ### Olá eu sou o Ricardo Almeida
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Eu/Dele
 
 <div align="center">
   <a href="https://github.com/ralmeida93">
