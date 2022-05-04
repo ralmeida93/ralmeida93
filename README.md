@@ -1,5 +1,4 @@
-### Olá eu sou o Ricardo Almeida
-
+### Olá! eu sou o Ricardo Almeida 💻
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
