@@ -1,6 +1,6 @@
 ### Olá eu sou o Ricardo Almeida
 
-- 🌱 Estou estudando JavaScript
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Eu/Dele
 
 <div align="center">
